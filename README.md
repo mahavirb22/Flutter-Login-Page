@@ -1,16 +1,38 @@
-# flutter_loginpage
+# 🔐 Flutter Login UI
 
-A new Flutter project.
+A clean and minimal Flutter application implementing a **Login & Registration system** with input validation and local credential management.
 
-## Getting Started
+### ✨ Highlights
 
-This project is a starting point for a Flutter application.
+* Secure email & password validation
+* User registration with uniqueness check
+* Smooth navigation between screens
+* Snackbar-based login feedback
+* Structured, feature-based folder design
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 Run Locally
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📁 Structure
+
+```
+lib/
+ ├── main.dart
+ ├── register_page.dart
+ ├── utility.dart
+ └── configurations.dart
+```
+
+
+---
+
+### 👨‍💻 Developer
+
+**Mahavir Bhandari**
+Passionate about building scalable apps and continuously exploring modern technologies in Flutter and AI.
+
+> *“Code. Learn. Build. Repeat.”*
